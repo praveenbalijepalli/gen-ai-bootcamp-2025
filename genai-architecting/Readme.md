@@ -1,9 +1,13 @@
 
 
-# Requirements
+## Functional Requirements
 
-# Risks
+## Risks
 
-# Assumptions
+## Assumptions
 
-# Constraints
+## Constraints
+
+## Data Strategy
+
+## Considerations
